@@ -1,5 +1,5 @@
 # Python-NFT-Collection-Generator
-A NFT generator that builds an NFT collection with all metadata
+<h2>A NFT generator that builds an NFT collection with all metadata</h2>
 
 This repository contains everything you need to generate images and metadata to be uploaded to blockchain as an NFT collection
 
@@ -13,13 +13,13 @@ I used this code successfully to create a 10,000 NFT collection that was then de
 
 So how do you use this code?
 
-IMAGES and PROBABILITIES
+<h2>IMAGES and PROBABILITIES</h2>
 
 First thing is you need your layers and attributes. Make these in .png files with clear backgrounds. Order the layers (in the config + metadata) in the order you want them added to the NFT. ie. lowest number is the lowest layer, highest number is the highest layer. 
 
 Then you need to decide how probable you want each attribute to be within it's layer. The probabilities of all the attributes within a layer MUST add up to 100. If you want there to be a chance there is no attribute in that layer, simply add a blank (clear) .png file to your attributes. The probability you assign that will be the probability there is no asset on that layer for any given NFT.
 
-CONFIG
+<h2>CONFIG</h2>
 
 Once you have these probabilities decided, you need to get this information into your config.py file. You can enter this by hand or you can use the /Filename-assistant code. Up to you. 
 First open the config.py file. There are currently 4 layers (4 dicts in the "layers" list). Copy/paste or cut the number of layers as you require. Edit "name" to be what you want the layer to be called in your metadata and on NFT exchanges. Make sure the path to the folder for this layer is correct (relative to this directory on your computer).
@@ -32,13 +32,13 @@ Now change the number of dicts in the "attributes" list to match your number of 
 
 I will add an explaination of the /Filename-assistant code later.
 
-GENERATE
+<h2>GENERATE</h2>
 
 This part is pretty easy. Scroll down to the last line in the NFT-generator.py file and change the number 40 to however many NFTs you want in your collection. Be conscious of how many possible combinations you can have with your number of layers and attributes. The code will remove duplicates, so the code will keep attempting to make new combinations even if all possible combinations have been created. You've been warned.
 
 Run the file. This could take a while.
 
-UPLOAD TO IPFS AND UPDATE METADATA
+<h2>UPLOAD TO IPFS AND UPDATE METADATA</h2>
 
 So hopefully now you've got a beautiful new collection of computer generated images. The next part of this process assumes you are uploading these images and corresponding metadata to IPFS. I used Pinata so thats what I'm going to tell you to use too. If you don't know anything about this, neither did I before creating this NFT collection. It's pretty straight forward so don't worry.
 If all you wanted was to make a bunch of images on your computer then congrats - you're done. I doubt thats the case though so let's move on.
