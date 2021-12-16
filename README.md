@@ -1,7 +1,7 @@
 # Python-NFT-Collection-Generator
 A NFT generator that builds an NFT collection with all metadata
 
-This repository contains a everything you need to generate images and metadata to be uploaded to blockchain as an NFT collection
+This repository contains everything you need to generate images and metadata to be uploaded to blockchain as an NFT collection
 
 The core function of creating the NFTs and meatadata requires use of the /Finished and /Layers folders (to contain the images) as well as the NFT-generator.py, config.py, and update-JSON-URI.py files.
 
