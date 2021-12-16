@@ -1,0 +1,1202 @@
+{
+    "22": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "22",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Orange",
+            "Heart",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "24": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "24",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Square",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "38": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "38",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Heart",
+            "SQ1",
+            "Laugh"
+        ]
+    },
+    "12": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "12",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Triangle",
+            "SQ3",
+            "Love"
+        ]
+    },
+    "40": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "40",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Triangle",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "5": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "5",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Orange",
+            "Square",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "15": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "15",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Heart",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "13": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "13",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Square",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "1": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "1",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Heart",
+            "SQ3",
+            "Love"
+        ]
+    },
+    "16": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "16",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Heart",
+            "SQ1",
+            "Laugh"
+        ]
+    },
+    "27": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "27",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Heart",
+            "SQ2",
+            "Live"
+        ]
+    },
+    "17": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "17",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Triangle",
+            "SQ2",
+            "Love"
+        ]
+    },
+    "10": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "10",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Square",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "11": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "11",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Triangle",
+            "SQ2",
+            "Love"
+        ]
+    },
+    "14": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "14",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Square",
+            "SQ1",
+            "Laugh"
+        ]
+    },
+    "35": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "35",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Triangle",
+            "SQ2",
+            "Laugh"
+        ]
+    },
+    "18": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "18",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Square",
+            "SQ3",
+            "Love"
+        ]
+    },
+    "26": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "26",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Heart",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "32": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "32",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Square",
+            "SQ2",
+            "Laugh"
+        ]
+    },
+    "33": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "33",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Triangle",
+            "SQ1",
+            "Laugh"
+        ]
+    },
+    "9": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "9",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Orange",
+            "Heart",
+            "SQ3",
+            "Love"
+        ]
+    },
+    "28": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "28",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Square",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "25": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "25",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Square",
+            "SQ3",
+            "Live"
+        ]
+    },
+    "36": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "36",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Orange",
+            "Triangle",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "2": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "2",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Orange",
+            "Triangle",
+            "SQ2",
+            "Live"
+        ]
+    },
+    "6": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "6",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Triangle",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "3": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "3",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Square",
+            "SQ3",
+            "Live"
+        ]
+    },
+    "4": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "4",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Square",
+            "SQ2",
+            "Love"
+        ]
+    },
+    "7": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "7",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Triangle",
+            "SQ3",
+            "Live"
+        ]
+    },
+    "19": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "19",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Triangle",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "29": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "29",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Heart",
+            "SQ2",
+            "Love"
+        ]
+    },
+    "34": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "34",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Heart",
+            "SQ1",
+            "Live"
+        ]
+    },
+    "37": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "37",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Triangle",
+            "SQ3",
+            "Live"
+        ]
+    },
+    "20": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "20",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Triangle"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Triangle",
+            "SQ2",
+            "Live"
+        ]
+    },
+    "8": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "8",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Heart"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Heart",
+            "SQ1",
+            "Live"
+        ]
+    },
+    "23": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "23",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Square",
+            "SQ1",
+            "Love"
+        ]
+    },
+    "39": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "39",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ3"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Green",
+            "Square",
+            "SQ3",
+            "Laugh"
+        ]
+    },
+    "31": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "31",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Yellow"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ2"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Live"
+            }
+        ],
+        "attributes_all": [
+            "Yellow",
+            "Square",
+            "SQ2",
+            "Live"
+        ]
+    },
+    "30": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "30",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Laugh"
+            }
+        ],
+        "attributes_all": [
+            "Blue",
+            "Square",
+            "SQ1",
+            "Laugh"
+        ]
+    },
+    "21": {
+        "description": "My 10,000 NFT Collection - change this to describe your collection",
+        "external_url": "https://YourNFT.COM ...",
+        "image": "",
+        "name": "21",
+        "attributes": [
+            {
+                "trait_type": "Base",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Shape",
+                "value": "Square"
+            },
+            {
+                "trait_type": "Squiggle",
+                "value": "SQ1"
+            },
+            {
+                "trait_type": "Inspirational-message",
+                "value": "Love"
+            }
+        ],
+        "attributes_all": [
+            "Orange",
+            "Square",
+            "SQ1",
+            "Love"
+        ]
+    }
+}

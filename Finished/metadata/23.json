@@ -1,0 +1,30 @@
+{
+    "description": "My 10,000 NFT Collection - change this to describe your collection",
+    "external_url": "https://YourNFT.COM ...",
+    "image": "",
+    "name": "23",
+    "attributes": [
+        {
+            "trait_type": "Base",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Square"
+        },
+        {
+            "trait_type": "Squiggle",
+            "value": "SQ1"
+        },
+        {
+            "trait_type": "Inspirational-message",
+            "value": "Love"
+        }
+    ],
+    "attributes_all": [
+        "Green",
+        "Square",
+        "SQ1",
+        "Love"
+    ]
+}

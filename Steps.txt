@@ -1,0 +1,44 @@
+Part One - making your config data
+Create a spreadsheet of all attributes and the probability you want to assign them. Ensure all attributes are named exactly the same as their respective filename without the ext.
+Convert this file to a CSV, name it layers.csv and replace the layers.csv file in the filename-assistant.
+Run python file "format-filenames.py"
+Open this file. Copy/paste these lists into the appropriate values, filename, and weights location. Keep values and filename section the same within each layer unless you want to the name to reflect differently on OpenSea that the filename
+Shortcut: Simply type your filenames and prbabilities into the python config file. This is faster when you only have a few, but can be much slower when you have lots and make a small mistake somewhere!
+
+Part Two - Generate NFTs
+Put all of your attribute images in folders. I made one large "Layers" folder that contains a folder for each individual layer ("Layer1", Layer2"... etc.). Open the config file and ensure the path for each layer matches the location of the corresponding folder.
+Open the NFT-generator.py file and scroll to the bottom. Change the number parameter in the generate_finished_images() function to the number of NFTs you want.
+Run the file. If you are generating a large number of NFTs this can take a few minutes.
+Once completed you should have all your NFTs in the Finished/img folder and corresponding metadata files for each in the Finished/metadata folder.
+
+Part Three - Upload imgs to Pinata
+Create a Pinata account and upload the img folder.
+Once uploaded, copy the CID
+
+Part Four - Update NFT metadata files
+Open the "update-JSON-URI.py file.
+Replace "<YourCID>" in the IPFS_URI variable with the CID you copied from Pinata. Be sure not to delte the shash.
+Run the file. 
+The "image" key in all your metadata files should now be updated to "ipfs://<theCIDyouPaste>/"
+
+Part Five - Upload the metadata to Pinata
+Go back to your Pinata account and upload the metadata folder.
+Once this is completed, copy the CID.
+
+Part Six - Customize and Deploy the smart contract
+Open the NFT-Minter.sol file.
+Change the value for the public variables: cost, maxSupply, maxMintAmount, owner1 and owner2.
+Deploy the smart contract in the Remmix online ide. 
+When deploying you will need to give a collection name, a symbol, and initial base URI, and the number of token to automatically deploy to both owner addresses. For the Initial base URI you must put "ipfs://<CID>" where you replace <CID> with the CID copied from the meatadata folder in your Pinata account
+Deploy the contract. You should get a successful message and can verify in etherscan or polyscan if you want.
+Once deployed you must copy the ABI and Contract address to a txt file for use in the next step
+
+Part Seven - Web3 enabled website.
+If you wish to use the website template to allow buyers to mint first clone the NFT minting website repository.
+Customize the sections you want on the main page.
+The GetNFT page imports the mint functionality from the Web3Client.js file. This file imports the relevant contract information from the config.js file. Open the config.js file and replace the WEBSITE_ADDRESS variable with your contract address and the WEBSITE_ABI variable with your contract ABI.
+In the last line of the Web3Client.js file be sure to change the value setting to reflect the price you are charging for each nft. This is denoted in GWei.
+
+You should now be able to deploy your website on a server and your NFTs are ready to be purchased
+
+

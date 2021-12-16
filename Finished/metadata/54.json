@@ -1,0 +1,40 @@
+{
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean. WE MUST REPLACE THIS",
+    "external_url": "https://NFPP.COM OR SOMETHING",
+    "image": "",
+    "name": "54",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "PP",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Backpack",
+            "value": "No_Backpack"
+        },
+        {
+            "trait_type": "Balls",
+            "value": "Regular_Balls"
+        },
+        {
+            "trait_type": "Shaft",
+            "value": "Regular_Shaft"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Spinner_Hat"
+        }
+    ],
+    "attributes_all": [
+        "Yellow",
+        "Alien",
+        "No_Backpack",
+        "Regular_Balls",
+        "Regular_Shaft",
+        "Spinner_Hat"
+    ]
+}
